@@ -2,7 +2,6 @@
 A simple pack of rank insignia icons specifically designed to be used in Discord.
 
 <h4>This pack contains rank insignias for;</h4>
-<br>
 Sergeant
 <br>
 Inspector
